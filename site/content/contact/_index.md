@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/paysdesaintjeandemonts.png
+logo: /img/android-chrome-512x512.png
 contact_entries:
   - heading: Location
     text: '3153 Lynn Avenue, South San Francisco, California 94080'
