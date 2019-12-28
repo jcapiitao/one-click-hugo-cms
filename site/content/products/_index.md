@@ -1,28 +1,21 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
-heading: What we offer
+title: Idées Citoyennes
+image: /img/banter-snaps-ptrzqc_h1r4-unsplash.jpg
+heading: Idées Citoyennes
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Dans la continuité des multiples projets de démocratie participative déjà
+  réalisés (centre-ville, Quartiers Libres, sondages), la liste Agir Ensemble
+  veut continuer d'appliquer ce principe. Alors, faites part de vos suggestions
+  et participons !
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: /img/priscilla-du-preez-nf8xhlmmg0c-unsplash.jpg
+      text: >2-
+          
+        Mettre en place davantage de moyens pour inciter la jeunesse à rester
+        sur notre commune.
+    - image: /img/emma-simpson-mngaalewep0-unsplash.jpg
+      text: Continuer de récompenser les sportifs qui excellent
     - image: /img/illustrations-tutorials.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -37,12 +30,12 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Idées Citoyennes
+  description: >-
+    Dans la continuité des multiples projets de démocratie participative déjà
+    réalisés (centre-ville, Quartiers Libres, sondages), la liste Agir Ensemble
+    veut continuer d'appliquer ce principe. Alors, faites part de vos
+    suggestions et participons !
 main:
   heading: Great coffee with no compromises
   description: >
@@ -98,5 +91,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
