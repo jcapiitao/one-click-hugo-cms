@@ -5,31 +5,36 @@ image: /img/plage-saint-jean-de-monts-img_0395.jpg
 blurb:
   heading: Pourquoi nous soutenir ?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Dans la continuité d’André Ricolleau, toute l’équipe d’« Agir Ensemble »
+    travaille pour tous les Montois, sans étiquette politique. Au sein de ce
+    groupe, Véronique Launay, actuellement 1ère Adjointe, se présente en tant
+    que future Maire et Miguel Charrier, à ce jour 2e Adjoint, se porte candidat
+    au poste de 1er adjoint. 
+
+    Lors de ces élections, « Agir Ensemble » entend donner un rôle phare et
+    prépondérant à Saint-Jean-de-Monts au sein de la Communautés de Communes.
+
+    Entre mer, marais et forêt, nous avons construit ensemble une ville où il
+    fait bon vivre, attractive, solidaire et énergique toute l’année. C’est le
+    résultat de nos actions.
+
+    Montoises & Montois, continuons d’agir dans une voie démocratique conciliant
+    le rayonnement et la préservation de Saint-Jean-de-Monts. 
 intro:
-  heading: What we offer
+  heading: Nos idées citoyennes
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Dans la continuité des multiples projets de démocratie participative déjà
+    réalisés (centre-ville, Quartiers Libres, sondages), la liste Agir Ensemble
+    veut continuer d'appliquer ce principe. Alors, faites part de vos
+    suggestions et participons !
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/priscilla-du-preez-nf8xhlmmg0c-unsplash.jpg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      Mettre en place davantage de moyens pour inciter la jeunesse à rester sur
+      notre commune.
+  - image: /img/emma-simpson-mngaalewep0-unsplash.jpg
+    text: |
+      Intensifier l'entretien des bâtiments et des espaces publics.
 values:
   heading: Notre Vision
   text: >-
